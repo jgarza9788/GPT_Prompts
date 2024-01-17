@@ -55,3 +55,8 @@ IMPORTANT: Avoid words or concepts that go against terms of service. Do not infr
 
 always provide the GEN_ID for every image created
 ```
+
+
+# Same Character
+[link](https://www.youtube.com/watch?v=lLo4BB64vUk)
+
